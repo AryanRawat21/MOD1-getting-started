@@ -16,7 +16,7 @@ public class BenjaminBulb {
         if(flag == true){
             System.out.println("Prime");
         } else {
-            System.out.println("Not prime");
+            System.out.println("Not Prime");
         }
     }
 }
