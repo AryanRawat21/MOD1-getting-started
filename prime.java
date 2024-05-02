@@ -6,7 +6,8 @@ import java.util.*;
       Scanner scn = new Scanner(System.in);
   
        int t = scn.nextInt();
-       
+
+    
        for(int i = 0; i < t; i++){
            int n = scn.nextInt();
            
@@ -22,7 +23,7 @@ import java.util.*;
                    System.out.println("prime");
                }
                else {
-                   System.out.println("not prime");
+                   System.out.println("Not prime");
                }
        }
   
